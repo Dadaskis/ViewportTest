@@ -16,7 +16,7 @@ This project contains a collection of 3D models with corresponding texture rende
   - Antenna
   - Barrel
 - Pre-rendered PNG outputs of each model
-- Godot 4.x project structure
+- Godot 3.x project structure
 - Viewport rendering script for dynamic texture generation
 - Utility Python scripts for code analysis and directory visualization
 
@@ -30,14 +30,14 @@ This project contains a collection of 3D models with corresponding texture rende
 
 ## Getting Started
 
-1. Open the project in Godot 4.x
+1. Open the project in Godot 3.x
 2. Explore the `test0.tscn` scene to see the Viewport rendering in action
 3. Check `viewport_renderer.gd` for the rendering implementation
 4. Use the Python utilities to analyze the project structure if needed
 
 ## Requirements
 
-- Godot 4.x
+- Godot 3.x
 - 3D models are in .glb format (glTF Binary)
 
 ## Notes
